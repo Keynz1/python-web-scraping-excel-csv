@@ -1,0 +1,4 @@
+Web Scraping Demo Report
+Source: https://books.toscrape.com/
+Rows exported: 10
+Rows with missing price: 0
